@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bfede250-84a0-4257-a4af-bbcf1a105104": {
+      "ProjectGuid": "bfede250-84a0-4257-a4af-bbcf1a105104",
+      "DisplayName": "SystemObject",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
