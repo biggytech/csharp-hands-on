@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ea0b7f8f-19ea-49b3-b0ea-39bf8cabee39": {
+      "ProjectGuid": "ea0b7f8f-19ea-49b3-b0ea-39bf8cabee39",
+      "DisplayName": "HelloApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
